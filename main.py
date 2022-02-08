@@ -1,1 +1,1 @@
-This file is for demonstrating github and git commands altogether.
+print("These are local changes")
